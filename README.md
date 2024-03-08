@@ -6,6 +6,8 @@ and **working with inheritance**.
 
 ## Download starter code
 
+**Note: I will add additional code, Makefile soon.**
+
 From your terminal (mac or WSL/Ubunto) window, you can use the following command to download it:
 ```
 git clone https://github.com/CISC2200-Spring2024/lab4.git
