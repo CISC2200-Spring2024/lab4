@@ -32,6 +32,8 @@ Please implement the following member functions in the **AList.h**.
    
 ## Submission:
 
-Due date and submission site TBA. 
+This lab is due March 20, Wednesday, by midnight 11:59pm. The submission link is as follows:
+TBA. 
+
 
    
