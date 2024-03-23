@@ -6,8 +6,6 @@ and **working with inheritance**.
 
 ## Download starter code
 
-**Note: I will add additional code, Makefile soon.**
-
 From your terminal (mac or WSL/Ubunto) window, you can use the following command to download it:
 ```
 git clone https://github.com/CISC2200-Spring2024/lab4.git
@@ -26,8 +24,9 @@ If you haven't done so already, please set up programming environment our our ow
 
 Please implement the following member functions in the **AList.h**. 
 
-1. Create a file named **stack.h** which implements a class template **stack** supporting **pop**, **top**, **push**, **is_empty** functions, it should use **AList** as provided to store the elements.
-2. In the **SLLList.h** file, add a member function called **reverse_print**. This function shall use a stack to hold the elements in the list as one traverse the linked list, and
+1. There are a few errors or inconsistency between **List.h** and **AList.h** that lead to compilation errors. Read the compilation errors carefully to understand what are the causes, and then fix these inconsistency. (Note: **AList** derives from abstract class **List**, and **AList** is not an abstract class.). 
+3. Create a file named **stack.h** which implements a class template **stack** supporting **pop**, **top**, **push**, **is_empty** functions, it should use **AList** as provided to store the elements.
+4. In the **SLLList.h** file, add a member function called **reverse_print**. This function shall use a stack to hold the elements in the list as one traverse the linked list, and
    afterwards, pop elements from the stack one by one to display them. This way, the items in the SLList are displayed in reversed order: the last element is displayed first, and the first element (at the bottom of the stak) is displayed last.
    
 ## Submission:
