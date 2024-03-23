@@ -39,6 +39,6 @@ Please implement the following member functions in the **AList.h**.
 This lab is due April 2nd, by midnight 11:59pm. Please submit your **List.h**, **AList.h**, **Stack.h** on the following
 submission site: 
 
- [Lab4 (Stack) submission link:](https://storm.cis.fordham.edu:8443/web/project/1766?current_tab=submit)https://storm.cis.fordham.edu:8443/web/project/1766?current_tab=submit
+ [Lab4 (Stack) submission link:](https://storm.cis.fordham.edu:8443/web/project/1766?current_tab=submit) 
 
    
